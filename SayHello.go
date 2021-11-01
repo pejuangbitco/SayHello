@@ -9,5 +9,5 @@ func Say() {
 }
 
 func SayName(word string) {
-	fmt.Println("welcome %s", word)
+	fmt.Println("welcome ", word)
 }
