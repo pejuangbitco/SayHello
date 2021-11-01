@@ -11,3 +11,7 @@ func Say() {
 func SayName(word string) {
 	fmt.Println("welcome ", word)
 }
+
+func WhosAuthor() {
+	fmt.Println("Irsyad Eins")
+}
